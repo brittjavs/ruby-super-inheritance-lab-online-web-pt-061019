@@ -12,3 +12,4 @@ class ChattyStudent < Student
   break         # this will cause execution to exit the loop
 end
 end
+end
